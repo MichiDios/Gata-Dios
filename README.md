@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8848ff&height=120&section=header"/>
 
-## ¡Hola! 👋 Bienvenido(a) me conocen como Gata Dios 😻✨
+## ¡Hola! 👋 Bienvenido(a) me conocen como Michi Dios 😻✨
 
-> **Desarrolladora apasionada de bots de WhatsApp.**
+> **Desarrollador apasionado de bots de WhatsApp.**
 
 ### Espero te encuentres bien ✅
 
